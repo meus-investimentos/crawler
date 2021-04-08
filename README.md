@@ -36,4 +36,6 @@ $ npm run test:cov
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+This project is under [GNU General Public License v3.0](LICENSE)
